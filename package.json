@@ -1,0 +1,19 @@
+{
+  "name": "@red-cup-engineering/xml-data-engineering-services-section",
+  "private": true,
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/xml-data-engineering-services-section.git"
+  },
+  "type": "module",
+  "dependencies": {},
+  "files": [
+    "README.md"
+  ],
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
+}
